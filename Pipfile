@@ -12,6 +12,9 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 pexpect = "*"
+psycopg2 = "*"
+psycopg2-binary = "*"
+jinjasql = "*"
 
 [requires]
 python_version = "3.6"
